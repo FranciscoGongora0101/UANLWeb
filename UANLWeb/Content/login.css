@@ -1,0 +1,40 @@
+﻿#formLogin {
+    background-color: white;
+    width: 50%;
+    margin: 100px auto;
+    border: 1px solid black;
+    box-shadow: gray 5px 5px;
+    padding-bottom: 20px;
+}
+
+#imgLogin{
+    content: url('/Imagenes/uanl.png');
+    width: 60%;
+    margin : auto;
+    
+}
+table{
+    margin : auto;
+}
+body, html {
+    font-family: Consolas;
+    font-size: 18px;
+    background-color: crimson;
+}
+
+#btnIngresar{
+    background-color: blue;
+    margin-top : 10px;
+    font-size: 20px;
+    padding : 10px 25px;
+    color : white;
+    border : none;
+}
+#btnRegister {
+    background-color: blue;
+    margin-top: 10px;
+    font-size: 20px;
+    padding: 10px 25px;
+    color: white;
+    border: none;
+}

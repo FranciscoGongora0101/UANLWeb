@@ -1,0 +1,10 @@
+C:\Users\josef\source\repos\UANLWeb\UANL_DAL\bin\Debug\UANL_DAL.dll.config
+C:\Users\josef\source\repos\UANLWeb\UANL_DAL\bin\Debug\UANL_DAL.dll
+C:\Users\josef\source\repos\UANLWeb\UANL_DAL\bin\Debug\UANL_DAL.pdb
+C:\Users\josef\source\repos\UANLWeb\UANL_DAL\bin\Debug\EntityFramework.dll
+C:\Users\josef\source\repos\UANLWeb\UANL_DAL\bin\Debug\EntityFramework.xml
+C:\Users\josef\source\repos\UANLWeb\UANL_DAL\obj\Debug\UANL_DAL.csprojAssemblyReference.cache
+C:\Users\josef\source\repos\UANLWeb\UANL_DAL\obj\Debug\UANL_DAL.csproj.CoreCompileInputs.cache
+C:\Users\josef\source\repos\UANLWeb\UANL_DAL\obj\Debug\UANL_DAL.csproj.CopyComplete
+C:\Users\josef\source\repos\UANLWeb\UANL_DAL\obj\Debug\UANL_DAL.dll
+C:\Users\josef\source\repos\UANLWeb\UANL_DAL\obj\Debug\UANL_DAL.pdb

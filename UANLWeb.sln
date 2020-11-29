@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UANLWeb", "UANLWeb\UANLWeb.csproj", "{06F1FBC8-3140-4A34-9AB2-667E1C974E0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UANL_DAL", "UANL_DAL\UANL_DAL.csproj", "{C6C81250-4689-4F42-8105-1B493AA8AA61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UANL_BLL", "UANL_BLL\UANL_BLL.csproj", "{80247544-ABB6-4646-BB60-8848E9D09EBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06F1FBC8-3140-4A34-9AB2-667E1C974E0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06F1FBC8-3140-4A34-9AB2-667E1C974E0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06F1FBC8-3140-4A34-9AB2-667E1C974E0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06F1FBC8-3140-4A34-9AB2-667E1C974E0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6C81250-4689-4F42-8105-1B493AA8AA61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6C81250-4689-4F42-8105-1B493AA8AA61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6C81250-4689-4F42-8105-1B493AA8AA61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6C81250-4689-4F42-8105-1B493AA8AA61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80247544-ABB6-4646-BB60-8848E9D09EBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80247544-ABB6-4646-BB60-8848E9D09EBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80247544-ABB6-4646-BB60-8848E9D09EBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80247544-ABB6-4646-BB60-8848E9D09EBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4E5C625-4291-43F4-8B85-182F2C5EC133}
+	EndGlobalSection
+EndGlobal
